@@ -4,9 +4,9 @@ import type { TexlyreConfig } from '@/types/texlyre';
 const config: TexlyreConfig = {
     title: 'TeXlyre',
     tagline: 'A local-first LaTeX & Typst collaborative web editor',
-    url: 'https://texlyre.org',
-    baseUrl: '/texlyre/',
-    organizationName: 'texlyre',
+    url: 'https://texlyre.kylinwolf.dpdns.org',
+    baseUrl: '/',
+    organizationName: 'dangerwolf',
     projectName: 'texlyre',
     favicon: '/favicon.ico',
 
